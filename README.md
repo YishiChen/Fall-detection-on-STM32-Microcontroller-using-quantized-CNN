@@ -1,6 +1,4 @@
-# MlonMCU
-
-This is a course project for the course Machine Learning on Microcontrollers at ETH Zürich.
+# This is a course project for the course Machine Learning on Microcontrollers at ETH Zürich.
 
 The aim of this project is to develop a quantized and pruned CNN model for fall detection using real-time sensor data from the accelerometer and gyroscope on a STM32 microcontroller.
 
